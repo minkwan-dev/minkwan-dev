@@ -49,14 +49,4 @@ React, TypeScript 기반의 프론트엔드 개발자 원민관입니다.
 
 ---
 
-## 📊 GitHub Stats
-
-[![minkwan-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkwan-dev&theme=react&hide_border=true&count_private=true&show_icons=true)](https://github.com/minkwan-dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkwan-dev&layout=compact&theme=react&hide_border=true)](https://github.com/minkwan-dev)
-
-<br>
-
----
-
 <p align="center">감사합니다. 좋은 인연으로 만나요 😄</p>
