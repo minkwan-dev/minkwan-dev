@@ -1,4 +1,4 @@
-# 👨‍💻 프론트엔드 개발자 **원민관**입니다.
+# 👨‍💻 프론트엔드 개발자 **원민관**입니다. 
 
 ## 🌟 About Me
 
@@ -12,7 +12,7 @@ React, TypeScript 기반의 프론트엔드 개발자 원민관입니다.
 
 <br>
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 ### **Frontend & Core**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
@@ -37,7 +37,7 @@ React, TypeScript 기반의 프론트엔드 개발자 원민관입니다.
 
 <br>
 
-## 💬 Contact & Portfolio
+## 💬 Contact 
 
 | 구분 | 정보 |
 | :--- | :--- |
@@ -49,4 +49,5 @@ React, TypeScript 기반의 프론트엔드 개발자 원민관입니다.
 
 ---
 
-<p align="center">감사합니다. 좋은 인연으로 만나요 😄</p>
+<p align="center">감사합니다. 좋은 인연으로 만나요. 😄</p>
+
