@@ -33,7 +33,8 @@ React, TypeScript 기반의 프론트엔드 개발자 원민관입니다.
 
 ## 🪪 Certification
 - SQLD (SQL Developer)
-- ADsP (Advanced Data Analytics Semi-Professional) 
+- ADsP (Advanced Data Analytics Semi-Professional)
+- 정보처리기사(Engineer Information Processing)
 
 <br>
 
