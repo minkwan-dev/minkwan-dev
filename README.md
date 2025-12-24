@@ -33,7 +33,7 @@ React, TypeScript 기반의 프론트엔드 개발자 원민관입니다.
 ![Certbot](https://img.shields.io/badge/Certbot-2C2C32?style=flat-square&logo=letsencrypt&logoColor=yellow)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 <br>
 
 ## 🪪 Certification
