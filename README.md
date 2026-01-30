@@ -5,8 +5,8 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=300&section=header&text=MINKWAN%20WON&fontSize=90&fontAlignY=35&desc=Frontend%20Architect%20%7C%20UX%20Engineer%20%7C%20Digital%20Craftsman&descSize=25&descAlignY=55&animation=twinkling"/> -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=300&section=header&fontSize=90&fontAlignY=35&desc=Frontend%20Architect%20%7C%20UX%20Engineer%20%7C%20Digital%20Craftsman&descSize=25&descAlignY=55&animation=twinkling"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=300&section=header&text=MINKWAN&fontSize=90&fontAlignY=35&desc=Frontend%20Architect%20%7C%20UX%20Engineer%20%7C%20Digital%20Craftsman&descSize=25&descAlignY=55&animation=twinkling"/>
 <!-- Animated Typing Header -->
 <a href="https://github.com/minkwan-dev">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=🎨+Crafting+Pixel-Perfect+Experiences;⚡+React+%7C+TypeScript+%7C+Next.js+Specialist;🚀+Building+The+Future+of+Web" alt="Typing SVG" />
