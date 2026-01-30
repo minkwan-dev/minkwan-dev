@@ -1,3 +1,14 @@
+# ⚡️ Header Section
+<p align="center">
+  <a href="https://github.com/minkwan-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Frontend+Developer+Minkwan;Always+Exploring+New+Tech;Focusing+on+User+Experience" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+<br>
+
 ## **👤 About Me**
 
 React, TypeScript 기반의 개발자 원민관입니다. 새로운 기술과 다양한 문제 영역을 꾸준히 탐구하며 성장하고 있습니다. 단순히 화면을 개발하는 것을 넘어, 사용자와 만나는 첫 번째 경험을 설계하는 일에 집중합니다.
