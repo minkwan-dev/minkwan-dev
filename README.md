@@ -4,7 +4,8 @@
 <!--                        HERO SECTION                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=300&section=header&text=MINKWAN%20WON&fontSize=90&fontAlignY=35&desc=Frontend%20Architect%20%7C%20UX%20Engineer%20%7C%20Digital%20Craftsman&descSize=25&descAlignY=55&animation=twinkling"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=300&section=header&text=MINKWAN%20WON&fontSize=90&fontAlignY=35&desc=Frontend%20Architect%20%7C%20UX%20Engineer%20%7C%20Digital%20Craftsman&descSize=25&descAlignY=55&animation=twinkling"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=300&section=header&fontSize=90&fontAlignY=35&desc=Frontend%20Architect%20%7C%20UX%20Engineer%20%7C%20Digital%20Craftsman&descSize=25&descAlignY=55&animation=twinkling"/>
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/minkwan-dev">
