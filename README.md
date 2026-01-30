@@ -12,9 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=🎨+Crafting+Pixel-Perfect+Experiences;⚡+React+%7C+TypeScript+%7C+Next.js+Specialist;🚀+Building+The+Future+of+Web" alt="Typing SVG" />
 </a>
 
-
-
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -79,10 +76,6 @@ const developer = {
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK SECTION                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-
 
 ## 🛠️ Tech Stack
 
@@ -163,17 +156,9 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,postman,vite,webpack&theme=dark" />
 </p>
 
-</div>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS SECTION                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-
-
-
 
 ## 🧩 Algorithm
 
@@ -190,8 +175,6 @@ const developer = {
 <img src="https://img.shields.io/badge/Programmers-1E88E5?style=for-the-badge&logoColor=white" />
 </p>
 
-
-
 ## 📜 Certifications
 
 <p>
@@ -200,15 +183,11 @@ const developer = {
 <img src="https://img.shields.io/badge/정보처리기사-00897B?style=for-the-badge&logoColor=white" />
 </p>
 
-</div>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    ADDITIONAL FEATURES                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-
 
 ## 🎯 Featured Skills
 
@@ -245,10 +224,6 @@ const developer = {
 <!--                    CONTACT SECTION                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-
-
 ## 💬 Contact
 
 <p>
@@ -262,15 +237,11 @@ const developer = {
 
 > *"Good UI feels invisible. Great UX feels inevitable."*
 
-</div>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        FOOTER                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3&height=150&section=footer"/>
