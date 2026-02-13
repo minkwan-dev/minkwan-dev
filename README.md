@@ -166,14 +166,7 @@ const developer = {
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=a4ueo" alt="Solved.ac Profile"/>
 </a>
 
-<br><br>
 
-### 🏆 Coding Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Baekjoon-0052CC?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Programmers-1E88E5?style=for-the-badge&logoColor=white" />
-</p>
 
 ## 📜 Certifications
 
