@@ -4,7 +4,7 @@
 <!--                        HERO SECTION                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-# MINKWAN WON
+
 
 ### Frontend Architect | UX Engineer | Digital Craftsman
 
@@ -18,15 +18,9 @@
 <!--                     ABOUT ME SECTION                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div>
 
-## About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Philosophy
+## Philosophy
 
 ```typescript
 const developer = {
@@ -45,31 +39,7 @@ const developer = {
 };
 ```
 
-</td>
-<td width="50%" valign="top">
 
-### Core Strengths
-
-```javascript
-// User Experience Design
-Modal flows & authentication UX
-Real-time preview image uploads
-Mobile-first responsive design
-
-// Full-Stack Understanding
-NestJS backend integration
-RESTful API design patterns
-Database optimization (PostgreSQL)
-
-// DevOps & Infrastructure  
-AWS (S3, CloudFront, EC2)
-HTTPS & SSL (Certbot)
-CI/CD Pipeline (GitHub Actions)
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -79,46 +49,56 @@ CI/CD Pipeline (GitHub Actions)
 
 ## Tech Stack
 
-### Core Technologies
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,html,css,tailwind&theme=dark" />
-</p>
-
-### Frontend Ecosystem
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### State Management & Data Fetching
+### 🎨 Styling & UI
 
 <p>
-<img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+### 📦 State Management
+
+<p>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 </p>
 
-### UI Libraries & Styling
+### ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### Backend & Database
+### 💾 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgresql,prisma,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### DevOps & Infrastructure
+### ☁️ DevOps & Cloud
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
@@ -126,13 +106,13 @@ CI/CD Pipeline (GitHub Actions)
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
 <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazon-cloudfront&logoColor=white" />
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazon-route-53&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### Testing & Quality
+### 🧪 Testing & Quality
 
 <p>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -142,7 +122,7 @@ CI/CD Pipeline (GitHub Actions)
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
 </p>
 
-### Monitoring & Analytics
+### 📊 Monitoring & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
@@ -150,10 +130,17 @@ CI/CD Pipeline (GitHub Actions)
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
 </p>
 
-### Development Tools
+### 🛠️ Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,postman,vite,webpack&theme=dark" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
