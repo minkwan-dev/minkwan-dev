@@ -195,4 +195,4 @@ CI/CD Pipeline (GitHub Actions)
 
 ---
 
-*"Good UI feels invisible. Great UX feels inevitable."*
+*"Great UI feels invisible. Great UX feels inevitable."*
