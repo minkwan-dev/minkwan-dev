@@ -166,13 +166,18 @@ CI/CD Pipeline (GitHub Actions)
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=a4ueo" alt="Solved.ac Profile"/>
 </a>
 
+**Target: Platinum IV** 🎯
+
 ## Certifications
 
 <p>
 <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/ADsP-FF6F00?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/정보처리기사-00897B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_SAA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
+**Preparing for AWS Solutions Architect Associate** 📚
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    ADDITIONAL FEATURES                               -->
