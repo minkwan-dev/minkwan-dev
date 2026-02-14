@@ -49,7 +49,7 @@ const developer = {
 
 ## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,7 +61,7 @@ const developer = {
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🎨 Styling & UI
+### Styling & UI
 
 <p>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -71,7 +71,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### 📦 State Management
+### State Management
 
 <p>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -80,7 +80,7 @@ const developer = {
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -90,7 +90,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### 💾 Database
+### Database
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -98,7 +98,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
@@ -112,7 +112,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### 🧪 Testing & Quality
+### Testing & Quality
 
 <p>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -122,7 +122,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
 </p>
 
-### 📊 Monitoring & Analytics
+### Monitoring & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
@@ -130,7 +130,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
 </p>
 
-### 🛠️ Development Tools
+### Development Tools
 
 <p>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -161,7 +161,7 @@ const developer = {
 <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/ADsP-FF6F00?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/정보처리기사-00897B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_SAA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_SAA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 </p>
 
 **Preparing for AWS Solutions Architect Associate** 📚
