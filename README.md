@@ -198,6 +198,4 @@ CI/CD Pipeline (GitHub Actions)
 </a>
 </p>
 
----
 
-*"Great UI feels invisible. Great UX feels inevitable."*
