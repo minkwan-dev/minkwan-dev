@@ -72,7 +72,6 @@ const developer = {
 
 <p>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 </p>
@@ -82,7 +81,6 @@ const developer = {
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
@@ -98,15 +96,13 @@ const developer = {
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-### Testing & Quality
+### Quality
 
 <p>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
 </p>
@@ -134,11 +130,7 @@ const developer = {
 <!--                    GITHUB STATS SECTION                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## Algorithm
 
-<a href="https://solved.ac/a4ueo">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=a4ueo" alt="Solved.ac Profile"/>
-</a>
 
 
 ## Certifications
