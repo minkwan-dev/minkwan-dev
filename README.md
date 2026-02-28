@@ -150,16 +150,3 @@ const developer = {
 
 
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTACT SECTION                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## Contact
-
-<p>
-<a href="https://velog.io/@minkwan/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-</a>
-</p>
-
-
