@@ -1,6 +1,6 @@
 <div align="center">
 
-### Frontend Architect | UX Engineer | Digital Craftsman
+## Frontend Architect | UX Engineer | Digital Craftsman
 
 <a href="https://github.com/minkwan-dev">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=800&lines=Crafting+Pixel-Perfect+Experiences;User-Centered+Engineering;Building+The+Future+of+Web" alt="Typing SVG" />
@@ -29,7 +29,7 @@ const developer = {
 
 ## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,7 +46,7 @@ const developer = {
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 </p>
 
-### ⚙️ Backend & DB
+### Backend & DB
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,7 +57,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### 🚀 DevOps & Cloud
+### DevOps & Cloud
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
@@ -65,7 +65,7 @@ const developer = {
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-### 🛠️ Tooling
+### Tooling
 
 <p>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -78,7 +78,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 📊 Monitoring
+### Monitoring
 
 <p>
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
