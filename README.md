@@ -1,31 +1,7 @@
-<div align="center">
+## Jumping to the Next Level 🏃‍♂️ 
 
-## Frontend Architect | UX Engineer | Digital Craftsman
+![dino](https://github.com/user-attachments/assets/6edaf554-d5b9-4878-9a49-923bb784fb61)
 
-<a href="https://github.com/minkwan-dev">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=800&lines=Crafting+Pixel-Perfect+Experiences;User-Centered+Engineering;Building+The+Future+of+Web" alt="Typing SVG" />
-</a>
-
-</div>
-
-## Philosophy
-
-```typescript
-const developer = {
-  name: "Won Minkwan",
-  role: "Frontend Architect",
-  mindset: "UX-First Engineering",
-  belief: "Great UI feels invisible,
-           Great UX feels inevitable",
-     
-  passion: [
-    "Pixel-perfect implementations",
-    "Seamless user journeys",
-    "Performance optimization",
-    "Accessible design systems"
-  ]
-};
-```
 
 ## Tech Stack
 
